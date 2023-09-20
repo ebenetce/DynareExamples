@@ -15,7 +15,7 @@ cd ./models/ramst
 dynare ramst.mod
 </pre>
 <a name="H_924133BF"></a>
-## <samp>example1.mod</samp> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ebenetce/DynareExamples&file=DynareExamples.mlx&line=1)
+## <samp>example1.mod</samp> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ebenetce/DynareExamples&file=./models/ramst/main.m&line=1)
 
 An example of a small RBC model in a stochastic setup, presented in *Collard (2001)* (see the file <samp>guide.pdf</samp> which comes with Dynare).
 
@@ -24,7 +24,7 @@ cd ./models/example1
 dynare example1.mod
 </pre>
 <a name="H_057F809F"></a>
-## <samp>example2.mod</samp> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ebenetce/DynareExamples&file=DynareExamples.mlx&line=2)
+## <samp>example2.mod</samp> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ebenetce/DynareExamples&file=./models/example2/main.m&line=1)
 
 An example of a small RBC model in a stochastic setup, presented in *Collard (2001)* (see the file <samp>guide.pdf</samp> which comes with Dynare).
 
@@ -42,7 +42,7 @@ cd ./models/example3
 dynare example3.mod
 </pre>
 <a name="H_1DA975A5"></a>
-## <samp>fs2000.mod</samp>
+## <samp>fs2000.mod</samp> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ebenetce/DynareExamples&file=./models/example3/main.m&line=1)
 
 A cash in advance model, estimated by *Schorfheide (2000)*. The file shows how to use Dynare for estimation.
 
@@ -51,7 +51,7 @@ cd models\fs2000
 dynare fs2000.mod
 </pre>
 <a name="H_FBB805EB"></a>
-## <samp>fs2000_nonstationary.mod</samp>
+## <samp>fs2000_nonstationary.mod</samp> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ebenetce/DynareExamples&file=./models/fs2000/main.m&line=1)
 
 The same model than <samp>fs2000.mod</samp>, but written in non-stationary form. Detrending of the equations is done by Dynare.
 
