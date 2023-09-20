@@ -2,11 +2,20 @@
 # <span style="color:rgb(213,80,0)">Dynare examples</span>
 <a name="beginToc"></a>
 ## Table of Contents
-&emsp;[ramst.mod](#H_2765B1D4)
- 
+&emsp;[ramst](#H_2765B1D4)
+&emsp;[example1](#H_924133BF)
+&emsp;[example2](#H_057F809F)
+&emsp;[example3](#H_32D5D587)
+&emsp;[fs2000](#H_FBB805EB)
+&emsp;[example3](#H_32D5D587)
+&emsp;[example3](#H_32D5D587)
+&emsp;[example3](#H_32D5D587)
+&emsp;[example3](#H_32D5D587)
+&emsp;[example3](#H_32D5D587)
+
 <a name="endToc"></a>
 <a name="H_2765B1D4"></a>
-## ramst.mod
+## ramst.mod [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ebenetce/DynareExamples&file=./models/ramst/main.m&line=1)
 
 An elementary real business cycle (RBC) model, simulated in a deterministic setup.
 
@@ -15,8 +24,8 @@ cd ./models/ramst
 dynare ramst.mod
 </pre>
 <a name="H_924133BF"></a>
-## <samp>example1.mod</samp> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ebenetce/DynareExamples&file=./models/ramst/main.m&line=1)
-
+## <samp>example1.mod</samp> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ebenetce/DynareExamples&file=./models/example1/main.m&line=1)
+ 
 An example of a small RBC model in a stochastic setup, presented in *Collard (2001)* (see the file <samp>guide.pdf</samp> which comes with Dynare).
 
 <pre>
