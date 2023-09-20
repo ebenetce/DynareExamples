@@ -1,0 +1,1 @@
+dynare Ramsey_steady_file.mod

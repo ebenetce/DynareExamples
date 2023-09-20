@@ -1,0 +1,1 @@
+dynare fs2000.mod

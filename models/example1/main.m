@@ -1,0 +1,1 @@
+dynare example1.mod

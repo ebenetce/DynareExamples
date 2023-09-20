@@ -1,0 +1,1 @@
+dynare Occbin_example.mod

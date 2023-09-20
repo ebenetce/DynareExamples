@@ -1,0 +1,1 @@
+dynare NK_baseline.mod
